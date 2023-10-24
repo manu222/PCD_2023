@@ -1,5 +1,5 @@
 # Programación Concurrente y Distribuida #
-# Python crash course
+# Python crash course.
 
 ![universidad-europea-logo](https://user-images.githubusercontent.com/17354471/218064896-b8411ee7-5cec-4e97-8a71-216a4e6f3bf4.png)
 
